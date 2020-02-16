@@ -5,3 +5,7 @@ This sample application demonstrates how to use Spring Security 5's OAuth 2 clie
 You will need to register an application with Facebook (at
 https://developers.facebook.com/) and edit src/main/resources/application.yml,
 entering your application's client ID and secret.
+
+## Forked git repository!
+
+This git repository is a fork of https://github.com/habuma/facebook-security5 to help with issue https://youtrack.jetbrains.com/issue/KT-36749
