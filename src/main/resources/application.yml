@@ -4,6 +4,6 @@ spring:
       client:
         registration:
           facebook:
-            client-id: -- YOUR FACEBOOK CLIENT ID --
-            client-secret: -- YOUR FACEBOOK CLIENT SECRET --
+            client-id: ${FACEBOOK_CLIENT_ID}
+            client-secret: ${FACEBOOK_CLIENT_SECRET}
             scope: user_posts
